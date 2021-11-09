@@ -1,9 +1,11 @@
-### Oi, eu sou a Marcelli, também conhecida como Marce! 👋🏽
 
-👩‍🎓 Estagiária de Frontend
-👩‍💻 Estudando Javascript
-🎮 Gamer nas horas vagas
-🤹‍♀️ Futura desenvolvedora frontend UI/UX Pleno.
+
+### Oi! Eu sou a Marcelli mas pode me chamar de Marce! 👋🏽
+
+👩‍🎓 Estagiária de Frontend<br>
+👩‍💻 Estudando Javascript<br>
+🎮 Gamer nas horas vagas<br>
+🤹‍♀️ Futura desenvolvedora frontend UI/UX Pleno<br>
 
 
 ##
