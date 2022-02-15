@@ -3,7 +3,7 @@
 ### Oi! Eu sou a Marcelli mas pode me chamar de Marce! 👋🏽
 
 👩‍🎓 Estagiária de Frontend<br>
-👩‍💻 Estudando Javascript<br>
+👩‍💻 Estudando VueJS<br>
 🎮 Gamer nas horas vagas<br>
 🤹‍♀️ Futura desenvolvedora frontend UI/UX Pleno<br>
 
