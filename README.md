@@ -1,6 +1,6 @@
 
 
-### Oi! Eu sou a Marcelli mas pode me chamar de Marce! 👋🏽
+### Marcelli AKA Marce! 👋🏽
 
 👩‍🎓 Estagiária de Frontend<br>
 👩‍💻 Estudando VueJS<br>
