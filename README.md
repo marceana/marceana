@@ -2,8 +2,7 @@
 
 ### Marcelli AKA Marce! 👋🏽
 
-👩‍🎓 Estagiária de Frontend<br>
-👩‍💻 Estudando VueJS<br>
+👩‍🎓 Frontend Junior Developer<br>
 🎮 Gamer nas horas vagas<br>
 🤹‍♀️ Futura desenvolvedora frontend UI/UX Pleno<br>
 
