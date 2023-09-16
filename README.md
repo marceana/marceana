@@ -2,7 +2,7 @@
 
 ### Marcelli AKA Marce! 👋🏽
 
-👩‍🎓 Frontend Junior Developer<br>
+👩‍🎓 Frontend Developer<br>
 🎮 Gamer nas horas vagas<br>
 🤹‍♀️ Futura desenvolvedora frontend UI/UX Pleno<br>
 
