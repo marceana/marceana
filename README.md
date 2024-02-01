@@ -2,9 +2,9 @@
 
 ### Marcelli AKA Marce! 👋🏽
 
-👩‍🎓 Frontend Developer<br>
+👩‍🎓 Developer<br>
 🎮 Gamer nas horas vagas<br>
-🤹‍♀️ Futura desenvolvedora frontend UI/UX Pleno<br>
+🤹‍♀️ Futura desenvolvedora fullstack Pleno<br>
 
 
 ##
