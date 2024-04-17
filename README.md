@@ -24,10 +24,7 @@
 ##
 
 <div> 
-  <a href = "mailto: assumpcaom23@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
   <a href="https://instagram.com/marceana_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"         target="_blank"></a>
  	<a href="https://twitter.com/marceana_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"                   target="_blank"></a>
-  <a href="https://discord.gg/xBg9qhZ2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">   </a> 
   <a href="https://www.linkedin.com/in/marcelli-marinho-94561a1bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
