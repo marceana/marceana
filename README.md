@@ -1,5 +1,5 @@
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marceana&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api?username=marceana&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marceana&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,react,vue,vuetify,nodejs,sequelize,sentry,prisma,mysql,php,figma,vscode,git,github,gitlab&theme=dark" />
 </div>
